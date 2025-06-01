@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250531221224 +0800">
+<tv date="20250601101344 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -1585,181 +1585,103 @@
 		<display-name lang="zh">CHC动作电影</display-name>
 	</channel>
 	<programme channel="CHC动作电影" start="20250601000000 +0800" stop="20250601021000 +0800">
-		<title lang="zh">动作导视,谍影重重4</title>
+		<title lang="zh">谍影重重4</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250601021000 +0800" stop="20250601034200 +0800">
-		<title lang="zh">动作导视,变相怪杰2</title>
+	<programme channel="CHC动作电影" start="20250601021000 +0800" stop="20250601034500 +0800">
+		<title lang="zh">变相怪杰 2</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250601034200 +0800" stop="20250601034500 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250601034500 +0800" stop="20250601051500 +0800">
+	<programme channel="CHC动作电影" start="20250601034500 +0800" stop="20250601052000 +0800">
 		<title lang="zh">挡马夺刀</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250601051500 +0800" stop="20250601052000 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250601052000 +0800" stop="20250601065200 +0800">
+	<programme channel="CHC动作电影" start="20250601052000 +0800" stop="20250601065500 +0800">
 		<title lang="zh">大汉风之荥阳对峙</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250601065200 +0800" stop="20250601065500 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250601065500 +0800" stop="20250601091200 +0800">
-		<title lang="zh">志愿军-存亡之战</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250601091200 +0800" stop="20250601091500 +0800">
-		<title lang="zh">动作导视</title>
+	<programme channel="CHC动作电影" start="20250601065500 +0800" stop="20250601091500 +0800">
+		<title lang="zh">志愿军：存亡之战</title>
 	</programme>
 	<programme channel="CHC动作电影" start="20250601091500 +0800" stop="20250601104000 +0800">
 		<title lang="zh">丽人保镖之双面律师</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250601104000 +0800" stop="20250601121000 +0800">
-		<title lang="zh">动作导视,特警狙击手</title>
+	<programme channel="CHC动作电影" start="20250601104000 +0800" stop="20250601121500 +0800">
+		<title lang="zh">特警狙击手</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250601121000 +0800" stop="20250601121500 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250601121500 +0800" stop="20250601134300 +0800">
+	<programme channel="CHC动作电影" start="20250601121500 +0800" stop="20250601134500 +0800">
 		<title lang="zh">火线青春</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250601134300 +0800" stop="20250601134500 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250601134500 +0800" stop="20250601150900 +0800">
+	<programme channel="CHC动作电影" start="20250601134500 +0800" stop="20250601151000 +0800">
 		<title lang="zh">女子别动队</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250601150900 +0800" stop="20250601151000 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250601151000 +0800" stop="20250601165900 +0800">
+	<programme channel="CHC动作电影" start="20250601151000 +0800" stop="20250601170000 +0800">
 		<title lang="zh">那些女人</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250601165900 +0800" stop="20250601170000 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250601170000 +0800" stop="20250601184200 +0800">
+	<programme channel="CHC动作电影" start="20250601170000 +0800" stop="20250601184500 +0800">
 		<title lang="zh">开国将帅授衔1955</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250601184200 +0800" stop="20250601184500 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250601184500 +0800" stop="20250601201500 +0800">
+	<programme channel="CHC动作电影" start="20250601184500 +0800" stop="20250601202000 +0800">
 		<title lang="zh">飞鸿笑传之破茧</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250601201500 +0800" stop="20250601202000 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250601202000 +0800" stop="20250601215400 +0800">
+	<programme channel="CHC动作电影" start="20250601202000 +0800" stop="20250601220000 +0800">
 		<title lang="zh">明日战记</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250601215400 +0800" stop="20250601220000 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
 	<programme channel="CHC动作电影" start="20250601220000 +0800" stop="20250601235900 +0800">
-		<title lang="zh">哥斯拉-怪兽之王</title>
+		<title lang="zh">哥斯拉：怪兽之王</title>
 	</programme>
 	<channel id="CHC家庭影院">
 		<display-name lang="zh">CHC家庭影院</display-name>
 	</channel>
-	<programme channel="CHC家庭影院" start="20250601000000 +0800" stop="20250601013000 +0800">
-		<title lang="zh">熊猫计划</title>
+	<programme channel="CHC家庭影院" start="20250601011000 +0800" stop="20250601024500 +0800">
+		<title lang="zh">一点就到家</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20250601013000 +0800" stop="20250601025100 +0800">
-		<title lang="zh">特种突袭之觉醒</title>
+	<programme channel="CHC家庭影院" start="20250601024500 +0800" stop="20250601045000 +0800">
+		<title lang="zh">龙马精神</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20250601025100 +0800" stop="20250601025500 +0800">
-		<title lang="zh">导视</title>
+	<programme channel="CHC家庭影院" start="20250601045000 +0800" stop="20250601063500 +0800">
+		<title lang="zh">龙门客栈</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20250601025500 +0800" stop="20250601045400 +0800">
-		<title lang="zh">海的尽头是草原</title>
+	<programme channel="CHC家庭影院" start="20250601063500 +0800" stop="20250601080000 +0800">
+		<title lang="zh">狄仁杰·通天人偶</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20250601045400 +0800" stop="20250601045500 +0800">
-		<title lang="zh">导视</title>
+	<programme channel="CHC家庭影院" start="20250601080000 +0800" stop="20250601095500 +0800">
+		<title lang="zh">海关战线</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20250601045500 +0800" stop="20250601063600 +0800">
+	<programme channel="CHC家庭影院" start="20250601095500 +0800" stop="20250601114000 +0800">
+		<title lang="zh">搜救</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20250601114000 +0800" stop="20250601132500 +0800">
+		<title lang="zh">哆啦A梦：大雄的宇宙小战争</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20250601132500 +0800" stop="20250601145500 +0800">
+		<title lang="zh">超级马力欧兄弟大电影</title>
+	</programme>
+	<programme channel="CHC家庭影院" start="20250601145500 +0800" stop="20250601164000 +0800">
 		<title lang="zh">我是女王</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20250601063600 +0800" stop="20250601064000 +0800">
-		<title lang="zh">导视</title>
+	<programme channel="CHC家庭影院" start="20250601164000 +0800" stop="20250601183500 +0800">
+		<title lang="zh">罗马假日</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20250601064000 +0800" stop="20250601082400 +0800">
-		<title lang="zh">三生三世十里桃花</title>
+	<programme channel="CHC家庭影院" start="20250601183500 +0800" stop="20250601201000 +0800">
+		<title lang="zh">念书的孩子2</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20250601082400 +0800" stop="20250601082500 +0800">
-		<title lang="zh">导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20250601082500 +0800" stop="20250601102600 +0800">
-		<title lang="zh">囧妈</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20250601102600 +0800" stop="20250601103000 +0800">
-		<title lang="zh">导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20250601103000 +0800" stop="20250601121400 +0800">
-		<title lang="zh">博物馆奇妙夜</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20250601121400 +0800" stop="20250601121500 +0800">
-		<title lang="zh">导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20250601121500 +0800" stop="20250601140700 +0800">
-		<title lang="zh">爱情神话</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20250601140700 +0800" stop="20250601141000 +0800">
-		<title lang="zh">导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20250601141000 +0800" stop="20250601154200 +0800">
-		<title lang="zh">风流理发师</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20250601154200 +0800" stop="20250601154500 +0800">
-		<title lang="zh">导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20250601154500 +0800" stop="20250601173400 +0800">
-		<title lang="zh">青藏线</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20250601173400 +0800" stop="20250601173500 +0800">
-		<title lang="zh">导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20250601173500 +0800" stop="20250601190600 +0800">
-		<title lang="zh">冒牌特工</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20250601190600 +0800" stop="20250601191000 +0800">
-		<title lang="zh">导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20250601191000 +0800" stop="20250601215600 +0800">
-		<title lang="zh">流浪地球(2)</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20250601215600 +0800" stop="20250601220000 +0800">
-		<title lang="zh">导视</title>
+	<programme channel="CHC家庭影院" start="20250601201000 +0800" stop="20250601220000 +0800">
+		<title lang="zh">警察故事2013</title>
 	</programme>
 	<programme channel="CHC家庭影院" start="20250601220000 +0800" stop="20250601233500 +0800">
-		<title lang="zh">野性的呼唤</title>
+		<title lang="zh">忍者神龟：变种大乱斗</title>
 	</programme>
 	<programme channel="CHC家庭影院" start="20250601233500 +0800" stop="20250601235900 +0800">
-		<title lang="zh">坑爹游戏</title>
+		<title lang="zh">金手指</title>
 	</programme>
 	<channel id="CHC高清电影">
 		<display-name lang="zh">CHC高清电影</display-name>
 	</channel>
-	<programme channel="CHC高清电影" start="20250601000000 +0800" stop="20250601030700 +0800">
-		<title lang="zh">教父Ⅱ</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20250601030700 +0800" stop="20250601040000 +0800">
-		<title lang="zh">燕赤霞传之情迷兰若寺</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20250601040000 +0800" stop="20250601060000 +0800">
-		<title lang="zh">燕赤霞传之情迷兰若寺</title>
-	</programme>
 	<programme channel="CHC高清电影" start="20250601060000 +0800" stop="20250601072800 +0800">
 		<title lang="zh">极寒风暴</title>
 	</programme>
-	<programme channel="CHC高清电影" start="20250601072800 +0800" stop="20250601080000 +0800">
-		<title lang="zh">神探大战</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20250601080000 +0800" stop="20250601091000 +0800">
+	<programme channel="CHC高清电影" start="20250601072800 +0800" stop="20250601091000 +0800">
 		<title lang="zh">神探大战</title>
 	</programme>
 	<programme channel="CHC高清电影" start="20250601091000 +0800" stop="20250601101900 +0800">
-		<title lang="zh">三毛流浪记昆仑</title>
+		<title lang="zh">三毛流浪记</title>
 	</programme>
 	<programme channel="CHC高清电影" start="20250601101900 +0800" stop="20250601115400 +0800">
 		<title lang="zh">向日葵中队</title>
@@ -1771,7 +1693,7 @@
 		<title lang="zh">美术老师的放羊班</title>
 	</programme>
 	<programme channel="CHC高清电影" start="20250601145500 +0800" stop="20250601170500 +0800">
-		<title lang="zh">银河护卫队Ⅱ</title>
+		<title lang="zh">银河护卫队2</title>
 	</programme>
 	<programme channel="CHC高清电影" start="20250601170500 +0800" stop="20250601184800 +0800">
 		<title lang="zh">我心飞扬</title>
@@ -1780,10 +1702,10 @@
 		<title lang="zh">远去的牧歌</title>
 	</programme>
 	<programme channel="CHC高清电影" start="20250601202200 +0800" stop="20250601220000 +0800">
-		<title lang="zh">进球吧!少年</title>
+		<title lang="zh">进球吧！少年</title>
 	</programme>
 	<programme channel="CHC高清电影" start="20250601220000 +0800" stop="20250601232500 +0800">
-		<title lang="zh">冰川时代Ⅳ</title>
+		<title lang="zh">冰川时代4</title>
 	</programme>
 	<channel id="世界地理">
 		<display-name lang="zh">世界地理</display-name>
@@ -2760,6 +2682,570 @@
 	<programme channel="怀旧剧场" start="20250601233500 +0800" stop="20250601235900 +0800">
 		<title lang="zh">安家 43/53</title>
 	</programme>
+	<channel id="浙江少儿">
+		<display-name lang="zh">浙江少儿</display-name>
+	</channel>
+	<programme channel="浙江少儿" start="20250601000000 +0800" stop="20250601000500 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601000500 +0800" stop="20250601001600 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》22（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601001600 +0800" stop="20250601002000 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601002000 +0800" stop="20250601003100 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》23（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601003100 +0800" stop="20250601003400 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601003400 +0800" stop="20250601004700 +0800">
+		<title lang="zh">少儿动画片52023-019（超凡小英雄2）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601004700 +0800" stop="20250601005100 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601005100 +0800" stop="20250601010300 +0800">
+		<title lang="zh">少儿动画片52023-020（超凡小英雄2）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601010300 +0800" stop="20250601010700 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601010700 +0800" stop="20250601012000 +0800">
+		<title lang="zh">少儿动画片52023-021（超凡小英雄2）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601012000 +0800" stop="20250601012300 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601012300 +0800" stop="20250601013600 +0800">
+		<title lang="zh">少儿动画片52023-022（超凡小英雄2）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601013600 +0800" stop="20250601014000 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601014000 +0800" stop="20250601015300 +0800">
+		<title lang="zh">少儿动画片52023-023（超凡小英雄2）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601015300 +0800" stop="20250601015600 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601015600 +0800" stop="20250601020700 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》20（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601020700 +0800" stop="20250601021100 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601021100 +0800" stop="20250601022200 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》21（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601022200 +0800" stop="20250601022500 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601022500 +0800" stop="20250601023600 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》22（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601023600 +0800" stop="20250601024000 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601024000 +0800" stop="20250601025100 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》23（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601025100 +0800" stop="20250601025400 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601025400 +0800" stop="20250601030700 +0800">
+		<title lang="zh">少儿动画片52023-019（超凡小英雄2）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601030700 +0800" stop="20250601031000 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601031000 +0800" stop="20250601032300 +0800">
+		<title lang="zh">少儿动画片52023-020（超凡小英雄2）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601032300 +0800" stop="20250601032700 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601032700 +0800" stop="20250601034000 +0800">
+		<title lang="zh">少儿动画片52023-021（超凡小英雄2）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601034000 +0800" stop="20250601034300 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601034300 +0800" stop="20250601035600 +0800">
+		<title lang="zh">少儿动画片52023-022（超凡小英雄2）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601035600 +0800" stop="20250601035900 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601035900 +0800" stop="20250601041200 +0800">
+		<title lang="zh">少儿动画片52023-023（超凡小英雄2）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601041200 +0800" stop="20250601041600 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601041600 +0800" stop="20250601042700 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》20（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601042700 +0800" stop="20250601043000 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601043000 +0800" stop="20250601044100 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》21（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601044100 +0800" stop="20250601044500 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601044500 +0800" stop="20250601045600 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》22（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601045600 +0800" stop="20250601045900 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601045900 +0800" stop="20250601051000 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》23（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601051000 +0800" stop="20250601051400 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601051400 +0800" stop="20250601052700 +0800">
+		<title lang="zh">少儿动画片52023-021（超凡小英雄2）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601052700 +0800" stop="20250601053000 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601053000 +0800" stop="20250601054300 +0800">
+		<title lang="zh">少儿动画片52023-022（超凡小英雄2）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601054300 +0800" stop="20250601054600 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601054600 +0800" stop="20250601060000 +0800">
+		<title lang="zh">少儿动画片52023-023（超凡小英雄2）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601060000 +0800" stop="20250601060100 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601060100 +0800" stop="20250601060500 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601060500 +0800" stop="20250601061600 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》22（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601061600 +0800" stop="20250601061700 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601061700 +0800" stop="20250601062800 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》23（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601062800 +0800" stop="20250601062900 +0800">
+		<title lang="zh">海影城奔跑吧乐园宣5.31版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601062900 +0800" stop="20250601063000 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601063000 +0800" stop="20250601064100 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》24（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601064100 +0800" stop="20250601064200 +0800">
+		<title lang="zh">第21届中国国际动漫节宣</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601064200 +0800" stop="20250601064400 +0800">
+		<title lang="zh">6.1S广告4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601064400 +0800" stop="20250601065500 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》25（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601065500 +0800" stop="20250601065500 +0800">
+		<title lang="zh">卫视宣诗酒中国心6.1止</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601065500 +0800" stop="20250601065700 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601065700 +0800" stop="20250601070800 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》26（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601070800 +0800" stop="20250601070800 +0800">
+		<title lang="zh">海影城奔跑吧乐园宣5.31版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601070800 +0800" stop="20250601071000 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601071000 +0800" stop="20250601074000 +0800">
+		<title lang="zh">《我的助理不简单》20（高清少儿片尾版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601074000 +0800" stop="20250601074000 +0800">
+		<title lang="zh">无限超越班3.29</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601074000 +0800" stop="20250601074200 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601074200 +0800" stop="20250601075500 +0800">
+		<title lang="zh">少儿动画片52023-022（超凡小英雄2）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601075500 +0800" stop="20250601075600 +0800">
+		<title lang="zh">卫视宣天赐的声音4.22-7.4止</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601075600 +0800" stop="20250601075800 +0800">
+		<title lang="zh">6.1S广告4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601075800 +0800" stop="20250601081100 +0800">
+		<title lang="zh">少儿动画片52023-023（超凡小英雄2）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601081100 +0800" stop="20250601081200 +0800">
+		<title lang="zh">让大山里的每颗星星都闪耀光芒</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601081200 +0800" stop="20250601081300 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601081300 +0800" stop="20250601082600 +0800">
+		<title lang="zh">少儿动画片52023-024（超凡小英雄2）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601082600 +0800" stop="20250601082800 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601082800 +0800" stop="20250601084100 +0800">
+		<title lang="zh">少儿动画片52023-025（超凡小英雄2）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601084100 +0800" stop="20250601084200 +0800">
+		<title lang="zh">奔跑吧第九季宣传片</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601084200 +0800" stop="20250601084300 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601084300 +0800" stop="20250601085600 +0800">
+		<title lang="zh">少儿动画片52023-026（超凡小英雄2）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601085600 +0800" stop="20250601085700 +0800">
+		<title lang="zh">第21届中国国际动漫节宣</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601085700 +0800" stop="20250601085800 +0800">
+		<title lang="zh">6.1S广告4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601085800 +0800" stop="20250601090900 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》22（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601090900 +0800" stop="20250601091000 +0800">
+		<title lang="zh">海影城奔跑吧乐园宣5.31版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601091000 +0800" stop="20250601091100 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601091100 +0800" stop="20250601092200 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》23（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601092200 +0800" stop="20250601092300 +0800">
+		<title lang="zh">奔跑吧乐园实景宣5.8-5.30</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601092300 +0800" stop="20250601092500 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601092500 +0800" stop="20250601093600 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》24（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601093600 +0800" stop="20250601093700 +0800">
+		<title lang="zh">无限超越班3.29</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601093700 +0800" stop="20250601093800 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601093800 +0800" stop="20250601094900 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》25（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601094900 +0800" stop="20250601095000 +0800">
+		<title lang="zh">奔跑吧第九季宣传片</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601095000 +0800" stop="20250601095200 +0800">
+		<title lang="zh">6.1S广告4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601095200 +0800" stop="20250601100300 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》26（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601100300 +0800" stop="20250601100300 +0800">
+		<title lang="zh">第21届中国国际动漫节宣</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601100300 +0800" stop="20250601100500 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601100500 +0800" stop="20250601103500 +0800">
+		<title lang="zh">《我的助理不简单》21（高清少儿片尾版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601103500 +0800" stop="20250601103500 +0800">
+		<title lang="zh">卫视宣诗酒中国心6.1止</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601103500 +0800" stop="20250601103700 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601103700 +0800" stop="20250601110700 +0800">
+		<title lang="zh">《我的助理不简单》22（高清少儿片尾版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601110700 +0800" stop="20250601110800 +0800">
+		<title lang="zh">第21届中国国际动漫节宣</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601110800 +0800" stop="20250601110900 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601110900 +0800" stop="20250601113900 +0800">
+		<title lang="zh">《我的助理不简单》23（高清少儿片尾版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601113900 +0800" stop="20250601114000 +0800">
+		<title lang="zh">海影城奔跑吧乐园宣5.31版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601114000 +0800" stop="20250601114100 +0800">
+		<title lang="zh">6.1S广告4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601114100 +0800" stop="20250601121100 +0800">
+		<title lang="zh">《我的助理不简单》24（高清少儿片尾版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601121100 +0800" stop="20250601121200 +0800">
+		<title lang="zh">奔跑吧第九季宣传片</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601121200 +0800" stop="20250601121400 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601121400 +0800" stop="20250601122700 +0800">
+		<title lang="zh">少儿动画片52023-022（超凡小英雄2）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601122700 +0800" stop="20250601122700 +0800">
+		<title lang="zh">无限超越班3.29</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601122700 +0800" stop="20250601122900 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601122900 +0800" stop="20250601124200 +0800">
+		<title lang="zh">少儿动画片52023-023（超凡小英雄2）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601124200 +0800" stop="20250601124400 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601124400 +0800" stop="20250601125600 +0800">
+		<title lang="zh">少儿动画片52023-024（超凡小英雄2）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601125600 +0800" stop="20250601125700 +0800">
+		<title lang="zh">第21届中国国际动漫节宣</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601125700 +0800" stop="20250601125900 +0800">
+		<title lang="zh">6.1S广告4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601125900 +0800" stop="20250601131200 +0800">
+		<title lang="zh">少儿动画片52023-025（超凡小英雄2）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601131200 +0800" stop="20250601131200 +0800">
+		<title lang="zh">奔跑吧第九季宣传片</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601131200 +0800" stop="20250601131400 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601131400 +0800" stop="20250601132700 +0800">
+		<title lang="zh">少儿动画片52023-026（超凡小英雄2）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601132700 +0800" stop="20250601132700 +0800">
+		<title lang="zh">第21届中国国际动漫节宣</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601132700 +0800" stop="20250601132900 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601132900 +0800" stop="20250601135900 +0800">
+		<title lang="zh">《我的助理不简单》25（高清少儿片尾版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601135900 +0800" stop="20250601140000 +0800">
+		<title lang="zh">无限超越班3.29</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601140000 +0800" stop="20250601140100 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601140100 +0800" stop="20250601143100 +0800">
+		<title lang="zh">《我的助理不简单》26（高清少儿片尾版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601143100 +0800" stop="20250601143200 +0800">
+		<title lang="zh">奔跑吧乐园实景宣5.8-5.30</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601143200 +0800" stop="20250601143400 +0800">
+		<title lang="zh">6.1S广告4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601143400 +0800" stop="20250601150400 +0800">
+		<title lang="zh">《我的助理不简单》27（高清少儿片尾版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601150400 +0800" stop="20250601150500 +0800">
+		<title lang="zh">卫视宣诗酒中国心6.1止</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601150500 +0800" stop="20250601150600 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601150600 +0800" stop="20250601153600 +0800">
+		<title lang="zh">《我的助理不简单》28（高清少儿片尾版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601153600 +0800" stop="20250601153700 +0800">
+		<title lang="zh">第21届中国国际动漫节宣</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601153700 +0800" stop="20250601153800 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601153800 +0800" stop="20250601160800 +0800">
+		<title lang="zh">《我的助理不简单》29（高清少儿片尾版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601160800 +0800" stop="20250601160900 +0800">
+		<title lang="zh">卫视宣天赐的声音4.22-7.4止</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601160900 +0800" stop="20250601161100 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601161100 +0800" stop="20250601162300 +0800">
+		<title lang="zh">《《海底小纵队第九季》》13（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601162300 +0800" stop="20250601162400 +0800">
+		<title lang="zh">奔跑吧第九季宣传片</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601162400 +0800" stop="20250601162500 +0800">
+		<title lang="zh">6.1S广告4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601162500 +0800" stop="20250601163700 +0800">
+		<title lang="zh">《《海底小纵队第九季》》14（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601163700 +0800" stop="20250601163800 +0800">
+		<title lang="zh">海影城奔跑吧乐园宣5.31版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601163800 +0800" stop="20250601164000 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601164000 +0800" stop="20250601164800 +0800">
+		<title lang="zh">《《奶龙与小七之大战暴暴龙》》19（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601164800 +0800" stop="20250601164900 +0800">
+		<title lang="zh">第21届中国国际动漫节宣</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601164900 +0800" stop="20250601165100 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601165100 +0800" stop="20250601165900 +0800">
+		<title lang="zh">《《奶龙与小七之大战暴暴龙》》20（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601165900 +0800" stop="20250601170000 +0800">
+		<title lang="zh">无限超越班3.29</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601170000 +0800" stop="20250601170200 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601170200 +0800" stop="20250601171100 +0800">
+		<title lang="zh">《《奶龙与小七之大战暴暴龙》》21（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601171100 +0800" stop="20250601171200 +0800">
+		<title lang="zh">奔跑吧第九季宣传片</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601171200 +0800" stop="20250601171300 +0800">
+		<title lang="zh">6.1S广告4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601171300 +0800" stop="20250601172700 +0800">
+		<title lang="zh">《《猪猪侠之竞速小英雄8》》23（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601172700 +0800" stop="20250601172700 +0800">
+		<title lang="zh">卫视宣诗酒中国心6.1止</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601172700 +0800" stop="20250601172900 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601172900 +0800" stop="20250601174200 +0800">
+		<title lang="zh">《《猪猪侠之竞速小英雄8》》24（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601174200 +0800" stop="20250601174300 +0800">
+		<title lang="zh">第21届中国国际动漫节宣</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601174300 +0800" stop="20250601174400 +0800">
+		<title lang="zh">卫视宣天赐的声音4.22-7.4止</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601174400 +0800" stop="20250601175700 +0800">
+		<title lang="zh">少儿动画片62025-016（超级飞侠18）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601175700 +0800" stop="20250601175800 +0800">
+		<title lang="zh">奔跑吧乐园实景宣5.8-5.30</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601175800 +0800" stop="20250601180000 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601180000 +0800" stop="20250601185300 +0800">
+		<title lang="zh">少儿频道晚会32025-001（2025浙江少儿六一晚会）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601185300 +0800" stop="20250601185400 +0800">
+		<title lang="zh">奔跑吧乐园实景宣5.8-5.30</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601185400 +0800" stop="20250601193800 +0800">
+		<title lang="zh">少儿频道晚会32025-002（2025浙江少儿六一晚会）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601193800 +0800" stop="20250601193800 +0800">
+		<title lang="zh">奔跑吧第九季宣传片</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601193800 +0800" stop="20250601202400 +0800">
+		<title lang="zh">少儿频道晚会32025-003（2025浙江少儿六一晚会）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601202400 +0800" stop="20250601202400 +0800">
+		<title lang="zh">第21届中国国际动漫节宣</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601202400 +0800" stop="20250601210700 +0800">
+		<title lang="zh">少儿频道晚会32025-004（2025浙江少儿六一晚会）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601210700 +0800" stop="20250601210800 +0800">
+		<title lang="zh">卫视宣诗酒中国心6.1止</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601210800 +0800" stop="20250601211900 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》23（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601211900 +0800" stop="20250601212000 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601212000 +0800" stop="20250601213100 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》24（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601213100 +0800" stop="20250601213200 +0800">
+		<title lang="zh">第21届中国国际动漫节宣</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601213200 +0800" stop="20250601214300 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》25（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601214300 +0800" stop="20250601214300 +0800">
+		<title lang="zh">海影城奔跑吧乐园宣5.31版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601214300 +0800" stop="20250601214500 +0800">
+		<title lang="zh">6.1S广告4</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601214500 +0800" stop="20250601215600 +0800">
+		<title lang="zh">《《舒克贝塔生命水之战》》26（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601215600 +0800" stop="20250601215700 +0800">
+		<title lang="zh">卫视宣天赐的声音4.22-7.4止</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601215700 +0800" stop="20250601215900 +0800">
+		<title lang="zh">6.1S广告1</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601215900 +0800" stop="20250601221200 +0800">
+		<title lang="zh">《《托宝战士之银河侦探1》》14（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601221200 +0800" stop="20250601221200 +0800">
+		<title lang="zh">海影城奔跑吧乐园宣5.31版</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601221200 +0800" stop="20250601221400 +0800">
+		<title lang="zh">6.1S广告2</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601221400 +0800" stop="20250601222700 +0800">
+		<title lang="zh">《《托宝战士之银河侦探1》》15（少儿高清版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601222700 +0800" stop="20250601222800 +0800">
+		<title lang="zh">奔跑吧乐园实景宣5.8-5.30</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601222800 +0800" stop="20250601222900 +0800">
+		<title lang="zh">6.1S广告3</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601222900 +0800" stop="20250601225900 +0800">
+		<title lang="zh">《不就是拔河么》5（高清少儿片尾版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601225900 +0800" stop="20250601232900 +0800">
+		<title lang="zh">《不就是拔河么》6（高清少儿片尾版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601232900 +0800" stop="20250601235900 +0800">
+		<title lang="zh">《不就是拔河么》7（高清少儿片尾版）</title>
+	</programme>
+	<programme channel="浙江少儿" start="20250601235900 +0800" stop="20250601235900 +0800">
+		<title lang="zh">公益广告10.14版</title>
+	</programme>
 	<channel id="第一剧场">
 		<display-name lang="zh">第一剧场</display-name>
 	</channel>
@@ -3396,6 +3882,30 @@
 	<programme channel="黑莓动画" start="20250601035200 +0800" stop="20250601051700 +0800">
 		<title lang="zh">虹猫蓝兔火凤凰</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250601051700 +0800" stop="20250601064500 +0800">
+		<title lang="zh">太空勇狗队</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250601064500 +0800" stop="20250601081300 +0800">
+		<title lang="zh">汪汪队立大功大电影2：超能大冒险</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250601081300 +0800" stop="20250601095200 +0800">
+		<title lang="zh">忍者神龟：变种大乱斗</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250601095200 +0800" stop="20250601111800 +0800">
+		<title lang="zh">奇妙萌可大电影</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250601111800 +0800" stop="20250601124500 +0800">
+		<title lang="zh">葫芦兄弟电影版</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250601124500 +0800" stop="20250601134500 +0800">
+		<title lang="zh">哪吒闹海</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250601134500 +0800" stop="20250601150700 +0800">
+		<title lang="zh">邋遢大王奇遇记电影版</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250601150700 +0800" stop="20250601162900 +0800">
+		<title lang="zh">黑猫警长之翡翠之星</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -3407,6 +3917,27 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250601032200 +0800" stop="20250601054000 +0800">
 		<title lang="zh">小森林精编版</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250601054000 +0800" stop="20250601064300 +0800">
+		<title lang="zh">烈火营救</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250601064300 +0800" stop="20250601082400 +0800">
+		<title lang="zh">爱犬奇缘</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250601082400 +0800" stop="20250601101700 +0800">
+		<title lang="zh">澄沙之味</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250601101700 +0800" stop="20250601123100 +0800">
+		<title lang="zh">法式火锅</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250601123100 +0800" stop="20250601140300 +0800">
+		<title lang="zh">地瓜味的冰激凌</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250601140300 +0800" stop="20250601151900 +0800">
+		<title lang="zh">蓦然回首</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250601151900 +0800" stop="20250601165400 +0800">
+		<title lang="zh">撒娇女人最好命</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
