@@ -1,66 +1,42 @@
 🕘️更新时间,#genre#
-2025-11-28 16:43:13,http://183.220.107.138:4022/rtp/239.11.0.130:5140
+2025-11-29 02:41:35,http://183.220.107.138:4022/rtp/239.11.0.130:5140
 
 📺央视频道,#genre#
 CCTV-1,http://183.220.107.138:4022/rtp/239.11.0.130:5140
-CCTV-3,http://60.13.52.236:65500/newlive/live/hls/3/live.m3u8
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
-CCTV-5+,http://tnvcn.com:8012/rtp/239.3.1.130:8004
-CCTV-6,http://120.40.39.246:352/newlive/live/hls/7/live.m3u8
 CCTV-6,http://tnvcn.com:8012/rtp/239.3.1.174:8001
-CCTV-7,http://120.40.39.246:352/newlive/live/hls/8/live.m3u8
 CCTV-7,http://183.220.107.138:4022/rtp/239.11.0.110:5140
 CCTV-8,http://tnvcn.com:8012/rtp/239.3.1.175:8001
-CCTV-8,http://120.40.39.246:352/newlive/live/hls/9/live.m3u8
-CCTV-9,http://120.40.39.246:352/newlive/live/hls/10/live.m3u8
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
 CCTV-15,http://183.220.107.138:4022/rtp/239.11.0.26:5140
-CETV-1,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/.m3u8
-CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
-CETV-2,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/.m3u8
-CETV-4,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/.m3u8
+CETV-1,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226538/.m3u8
+CETV-4,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226362/.m3u8
 
 💰央视付费频道,#genre#
-第一剧场,http://124.163.102.19:6000/rtp/226.0.2.221:9680
 第一剧场,http://171.125.90.120:6001/rtp/226.0.2.221:9680
 风云剧场,http://171.125.90.120:6001/rtp/226.0.2.227:9728
 怀旧剧场,http://171.125.90.120:6001/rtp/226.0.2.224:9704
-女性时尚,http://171.125.90.120:6001/rtp/226.0.2.226:9720
-女性时尚,http://124.163.102.19:6000/rtp/226.0.2.226:9720
 电视指南,http://171.125.90.120:6001/rtp/226.0.2.218:9656
 
 📡卫视频道,#genre#
-广东卫视,http://112.123.243.37:50085/tsfile/live/0135_1.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,http://60.13.52.236:65500/newlive/live/hls/26/live.m3u8
-黑龙江卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8
 东南卫视,http://tnvcn.com:8012/rtp/239.3.1.156:8148
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://60.13.52.236:65500/newlive/live/hls/39/live.m3u8
 吉林卫视,http://183.220.107.138:4022/rtp/239.11.0.35:5140
-江苏卫视,http://61.184.46.85:9901/tsfile/live/1005_1.m3u8?key=txiptv
-江苏卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8
 辽宁卫视,http://tnvcn.com:8012/rtp/239.3.1.210:8056
 宁夏卫视,http://183.220.107.138:4022/rtp/239.11.0.57:5140
-青海卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8
-山东卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8
-四川卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8
 深圳卫视,http://tnvcn.com:8012/rtp/239.3.1.134:8020
-深圳卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
-天津卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8
 云南卫视,http://183.220.107.138:4022/rtp/239.11.0.52:5140
 
 ☘️山东频道,#genre#
+山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
 济南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 青州综合,rtmp://sdqz.chinashadt.com:2036/live/stream:1.stream
 东营综合,rtmp://stream.hhek.cn:9936/live/xwzh_sd?shandd
 淄博生活,http://144.255.32.94:8288/rtp/239.21.1.109:5002
 淄博都市,http://144.255.32.94:8288/rtp/239.21.1.83:5002
-菏泽一套新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
-菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
-菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
@@ -91,17 +67,18 @@ CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smi
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 淘剧场,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/.m3u8
 淘剧场,http://tnvcn.com:8012/rtp/239.3.1.95:8001
-淘娱乐,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/.m3u8
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
+IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
+IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
+IPTV经典电影,http://144.255.32.94:8288/rtp/239.21.1.124:5002
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 
 🏀体育频道,#genre#
 体育赛事,http://144.255.32.94:8288/rtp/239.21.2.44:5002
-睛彩广场舞,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226567/.m3u8
 睛彩广场舞,http://tnvcn.com:8012/rtp/239.3.1.128:8001
 
 🪁动画频道,#genre#
@@ -125,7 +102,6 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
@@ -133,8 +109,8 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 海看电竞,http://144.255.32.94:8288/rtp/239.21.1.135:5002
 
 🎵音乐频道,#genre#
-音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🏛经典剧场,#genre#
