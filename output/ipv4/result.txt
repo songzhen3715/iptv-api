@@ -1,16 +1,34 @@
 🕘️更新时间,#genre#
-2025-11-29 02:41:35,http://183.220.107.138:4022/rtp/239.11.0.130:5140
+2025-11-29 16:39:55,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226432/.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://183.220.107.138:4022/rtp/239.11.0.130:5140
+CCTV-1,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226432/.m3u8
+CCTV-2,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/.m3u8
+CCTV-3,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/.m3u8
+CCTV-4,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/.m3u8
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
+CCTV-5,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/.m3u8
+CCTV-5+,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/.m3u8
+CCTV-6,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/.m3u8
 CCTV-6,http://tnvcn.com:8012/rtp/239.3.1.174:8001
+CCTV-7,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/.m3u8
 CCTV-7,http://183.220.107.138:4022/rtp/239.11.0.110:5140
+CCTV-8,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/.m3u8
 CCTV-8,http://tnvcn.com:8012/rtp/239.3.1.175:8001
+CCTV-9,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226465/.m3u8
+CCTV-10,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226464/.m3u8
+CCTV-11,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226463/.m3u8
+CCTV-12,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/.m3u8
+CCTV-12,http://112.123.243.37:50085/tsfile/live/0013_1.m3u8
+CCTV-13,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226568/.m3u8
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
+CCTV-14,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/.m3u8
+CCTV-15,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/.m3u8
 CCTV-15,http://183.220.107.138:4022/rtp/239.11.0.26:5140
-CETV-1,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226538/.m3u8
-CETV-4,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226362/.m3u8
+CCTV-16,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/.m3u8
+CCTV-17,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226459/.m3u8
+CETV-1,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226925/.m3u8
+CETV-4,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/.m3u8
 
 💰央视付费频道,#genre#
 第一剧场,http://171.125.90.120:6001/rtp/226.0.2.221:9680
@@ -19,24 +37,54 @@ CETV-4,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3
 电视指南,http://171.125.90.120:6001/rtp/226.0.2.218:9656
 
 📡卫视频道,#genre#
+广东卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226535/.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226493/.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-东南卫视,http://tnvcn.com:8012/rtp/239.3.1.156:8148
+北京卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226564/.m3u8
+湖北卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226503/.m3u8
+黑龙江卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/.m3u8
+安徽卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/.m3u8
+重庆卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/.m3u8
+东方卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226505/.m3u8
+东南卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/.m3u8
+甘肃卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226545/.m3u8
+广西卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226915/.m3u8
+贵州卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226908/.m3u8
+海南卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226922/.m3u8
+河北卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226917/.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 吉林卫视,http://183.220.107.138:4022/rtp/239.11.0.35:5140
-辽宁卫视,http://tnvcn.com:8012/rtp/239.3.1.210:8056
+吉林卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226533/.m3u8
+江西卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226956/.m3u8
+辽宁卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226966/.m3u8
+辽宁卫视,http://61.184.46.85:9901/tsfile/live/1017_1.m3u8?key=txiptv
+内蒙古卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226530/.m3u8
 宁夏卫视,http://183.220.107.138:4022/rtp/239.11.0.57:5140
-深圳卫视,http://tnvcn.com:8012/rtp/239.3.1.134:8020
+宁夏卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226921/.m3u8
+青海卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226916/.m3u8
+山东卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226244/.m3u8
+山西卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226531/.m3u8
+陕西卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/.m3u8
+四川卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/.m3u8
+深圳卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226573/.m3u8
+三沙卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/.m3u8
+天津卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/.m3u8
+西藏卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226527/.m3u8
+新疆卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226546/.m3u8
 云南卫视,http://183.220.107.138:4022/rtp/239.11.0.52:5140
+云南卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226928/.m3u8
 
 ☘️山东频道,#genre#
 山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
 济南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 青州综合,rtmp://sdqz.chinashadt.com:2036/live/stream:1.stream
 东营综合,rtmp://stream.hhek.cn:9936/live/xwzh_sd?shandd
 淄博生活,http://144.255.32.94:8288/rtp/239.21.1.109:5002
 淄博都市,http://144.255.32.94:8288/rtp/239.21.1.83:5002
+菏泽一套新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
+菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
+菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
@@ -66,20 +114,15 @@ CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 淘剧场,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/.m3u8
-淘剧场,http://tnvcn.com:8012/rtp/239.3.1.95:8001
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
-IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
-IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
-IPTV经典电影,http://144.255.32.94:8288/rtp/239.21.1.124:5002
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 
 🏀体育频道,#genre#
 体育赛事,http://144.255.32.94:8288/rtp/239.21.2.44:5002
-睛彩广场舞,http://tnvcn.com:8012/rtp/239.3.1.128:8001
 
 🪁动画频道,#genre#
 少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
@@ -102,6 +145,8 @@ IPTV经典电影,http://144.255.32.94:8288/rtp/239.21.1.124:5002
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
+金鹰卡通,http://221.13.235.60:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
