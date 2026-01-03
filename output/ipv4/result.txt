@@ -1,16 +1,17 @@
 🕘️更新时间,#genre#
-2026-01-03 02:43:41,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
+2026-01-03 16:40:29,http://btjg.net:809/hls/4/index.m3u8
 
 📺央视频道,#genre#
+CCTV-4,http://btjg.net:809/hls/4/index.m3u8
+CCTV-6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8
 CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
-CCTV-7,http://36.36.200.198:44330/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-8,http://36.36.200.198:44330/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-9,http://36.36.200.198:44330/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-9,https://v4-7b232e9a7ece13f936b4e19cb1594132.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5ce653679128614e5f2a5f9fe7008c67
 CCTV-10,http://27.41.245.32:801/hls/10/index.m3u8
-CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
+CCTV-15,http://36.36.200.198:44330/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
-CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
+CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
+CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 
 💰央视付费频道,#genre#
 风云音乐,http://171.83.103.119:9999/rtp/239.69.1.90:10180
@@ -24,10 +25,12 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+黑龙江卫视,http://36.36.200.198:44330/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 安徽卫视,http://tvlist.top/jd/index.php?id=ahws&qt=183.224.122.114:8014
 安徽卫视,http://222.214.208.34:59901/tsfile/live/0130_1.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-江苏卫视,http://222.214.208.34:59901/tsfile/live/0127_1.m3u8
+山西卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://222.214.208.34:59901/tsfile/live/0126_1.m3u8
 
 ☘️山东频道,#genre#
 山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -35,6 +38,9 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 济南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 青州综合,rtmp://sdqz.chinashadt.com:2036/live/stream:1.stream
 东营综合,rtmp://stream.hhek.cn:9936/live/xwzh_sd?shandd
+菏泽一套新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
+菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
+菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
@@ -56,8 +62,8 @@ Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
@@ -73,8 +79,19 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 
 🏀体育频道,#genre#
+天津体育,http://yp.qqqtv.top/1/api.php?id=%E5%A4%A9%E6%B4%A5%E4%BD%93%E8%82%B2&auth=666858
 
 🪁动画频道,#genre#
+少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
+少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
+少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.240.228:554/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.212.72/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
@@ -85,6 +102,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
+金鹰卡通,http://101.66.199.34:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://101.66.199.211:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
