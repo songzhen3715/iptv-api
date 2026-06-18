@@ -1,14 +1,11 @@
 🕘️更新时间,#genre#
-2026-06-18 19:59:53,http://198.204.240.250:82/live/cctv1.m3u8
+2026-06-19 04:44:57,http://198.204.240.250:82/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
-CCTV-1,http://173.208.212.130:8181/720p/cctv1.m3u8
-CCTV-3,http://173.208.212.130:8181/1080p/cctv3.m3u8
 CCTV-4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
 CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
-CCTV-9,http://223.75.149.129:9906/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-11,http://192.151.150.154/live/cctv11hd.m3u8
 CCTV-11,http://198.204.228.26/live/cctv11hd.m3u8
@@ -22,23 +19,22 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 
 💰央视付费频道,#genre#
 文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
-央视台球,http://173.208.212.130:8181/720p/ystq.m3u8
 
 📡卫视频道,#genre#
 广东卫视,https://live.264788.xyz/channel/guangdongweishi?streamid=c56d46d73457533e94deb4c1049a7767&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://173.208.212.130:8181/1080p/hnws.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,https://live.264788.xyz/channel/hubeiweishi?streamid=6b2a1b3ca23668e002fb2a6ff0f3a928&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=9e03d442683b7ecf5b887926d8068438&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+黑龙江卫视,http://192.151.150.154/live/hljwshd.m3u8
 黑龙江卫视,http://107.150.60.122/live/hljwshd.m3u8
 黑龙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hljwshd
-黑龙江卫视,http://192.151.150.154/live/hljwshd.m3u8
+黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=9e03d442683b7ecf5b887926d8068438&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 安徽卫视,http://198.204.228.26/live/ahwshd.m3u8
-安徽卫视,http://107.150.60.122/live/ahwshd.m3u8
 安徽卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ahwshd
+安徽卫视,http://107.150.60.122/live/ahwshd.m3u8
 东南卫视,http://198.204.228.26/live/dnwshd.m3u8
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 广西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd
@@ -48,34 +44,34 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 河北卫视,http://204.12.221.218:8181/3m1080p/hews.m3u8
 河南卫视,http://198.204.228.26/live/hawshd.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+吉林卫视,http://198.204.228.26/live/jlwshd.m3u8
 吉林卫视,http://192.151.150.154/live/jlwshd.m3u8
 吉林卫视,http://107.150.60.122/live/jlwshd.m3u8
 吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
-吉林卫视,http://198.204.228.26/live/jlwshd.m3u8
+江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=430ccd55b3374b7e3ccc7388e90566c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
-江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=430ccd55b3374b7e3ccc7388e90566c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=39740f1c6a79f08c4b008e5d4f80a26b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 辽宁卫视,https://live.264788.xyz/channel/liaoningweishi?streamid=11ca6a1856e4f7e06a1e824ae976604b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=40c2dd8c7826284e9c41d6abfa9f90cf&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
+宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=da9d5125bcba51087052d52acfe0952f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 宁夏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxws
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
-宁夏卫视,http://107.150.60.122/live/nxws.m3u8
 宁夏卫视,http://192.151.150.154/live/nxws.m3u8
-宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=da9d5125bcba51087052d52acfe0952f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-青海卫视,http://198.204.228.26/live/qhws.m3u8
+宁夏卫视,http://107.150.60.122/live/nxws.m3u8
 青海卫视,http://192.151.150.154/live/qhws.m3u8
+青海卫视,http://198.204.228.26/live/qhws.m3u8
 山东卫视,https://live.264788.xyz/channel/shandongweishi?streamid=584a5648f57ec60599e05d68c502946e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 山西卫视,http://192.151.150.154/live/sxwshd.m3u8
 四川卫视,http://192.151.150.154/live/scwshd.m3u8
 深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
 三沙卫视,http://198.204.228.26/live/ssws.m3u8
 天津卫视,https://live.264788.xyz/channel/tianjinweishi?streamid=23e186fb7d206d16fad75c9d18d05345&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-天津卫视,http://207.56.13.146:81/cdnlive/tjws.m3u8
-云南卫视,http://198.204.228.26/live/ynwshd.m3u8
-云南卫视,http://107.150.60.122/live/ynwshd.m3u8
 云南卫视,http://192.151.150.154/live/ynwshd.m3u8
+云南卫视,http://107.150.60.122/live/ynwshd.m3u8
+云南卫视,http://198.204.228.26/live/ynwshd.m3u8
 
 ☘️山东频道,#genre#
 山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
@@ -94,8 +90,8 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
 
 🎬电影频道,#genre#
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
@@ -103,6 +99,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🏀体育频道,#genre#
 成都体育,http://222.212.84.190:54123/rtp/239.93.0.224:1281
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🪁动画频道,#genre#
