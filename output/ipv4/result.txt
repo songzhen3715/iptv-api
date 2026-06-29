@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-29 03:44:47,http://198.204.228.26/live/cctv5p.m3u8
+2026-06-29 20:44:45,http://198.204.228.26/live/cctv5p.m3u8
 
 📺央视频道,#genre#
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
@@ -8,32 +8,31 @@ CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-11,http://198.204.228.26/live/cctv11hd.m3u8
-CCTV-11,http://223.75.149.129:9906/tsfile/live/0011_1.m3u8?key=txiptv
 CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
 CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=6553344335ee5b54198e5392ff03305a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-17,http://198.204.228.26/live/cctv17hd.m3u8
-CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
+CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 
 💰央视付费频道,#genre#
-文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
 文化精品,http://192.151.150.154/live/ysjp.m3u8
+文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
 风云足球,http://192.151.150.154/live/fyzq.m3u8
 兵器科技,http://192.151.150.154/live/gfjs.m3u8
 
 📡卫视频道,#genre#
 浙江卫视,http://204.12.221.218:8181/3m1080p/zjws.m3u8
-湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
+湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=06d3f2007e0c04856fb9ea419bbd9cf9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-北京卫视,http://198.204.228.26/live/bjwshd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://198.204.228.26/live/bjwshd.m3u8
 黑龙江卫视,http://192.151.150.154/live/hljwshd.m3u8
 黑龙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hljwshd
 黑龙江卫视,http://107.150.60.122/live/hljwshd.m3u8
-安徽卫视,http://198.204.228.26/live/ahwshd.m3u8
 安徽卫视,http://107.150.60.122/live/ahwshd.m3u8
+安徽卫视,http://198.204.228.26/live/ahwshd.m3u8
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 广西卫视,http://198.204.228.26/live/gxwshd.m3u8
 贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
@@ -46,6 +45,7 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
 江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
+江西卫视,http://204.12.221.218:8181/3m1080p/jxws.m3u8
 辽宁卫视,http://204.12.221.218:8181/3m1080p/lnws.m3u8
 内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
 宁夏卫视,http://107.150.60.122/live/nxws.m3u8
@@ -56,6 +56,7 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 四川卫视,http://192.151.150.154/live/scwshd.m3u8
 深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
 深圳卫视,http://204.12.221.218:8181/3m1080p/szws.m3u8
+深圳卫视,http://111.8.224.6:9999/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=2b66bbca8d66afc1d8014d7fa046a55e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 云南卫视,http://107.150.60.122/live/ynwshd.m3u8
 
@@ -77,10 +78,6 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
-CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
-CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
-CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🏀体育频道,#genre#
